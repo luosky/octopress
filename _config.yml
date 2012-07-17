@@ -18,7 +18,7 @@ date_format: "ordinal"
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
 subscribe_email:
-category_feeds: false
+category_feeds: false 
 # RSS feeds can list your email address if you like
 email:
 
@@ -66,13 +66,13 @@ post_sidebar: post_default.html
 respectfully_social: true
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: Luosky
+github_repo_count: 1 
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: luosky
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -98,12 +98,12 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: luosky
 disqus_show_comment_count: false
-disqus_developer: 0
+disqus_developer: 1
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-150010-7
 
 # Facebook Like
 facebook_like: false
