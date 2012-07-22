@@ -4,7 +4,7 @@ title: "PassKit (PassBook api) 学习笔记"
 date: 2012-06-21 21:40
 comments: true
 external-url: 
-categories: [Programming, iOS]
+categories: [programming, iOS]
 
 ---
 
@@ -75,7 +75,7 @@ event :
 ###注意点
 
 
-* iPad上没有Passbook
+* iPad上没有Passbook  
 * 导出P12时不用选中私钥
 * 签名和打包pass可用wwdc示例代码提供的签名工具
 * BARCODE不支持中文(应该跟用的编码有关)

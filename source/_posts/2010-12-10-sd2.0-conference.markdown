@@ -1,0 +1,38 @@
+---
+layout: post
+title: "SD2.0大会笔记"
+date: 2010-12-10 00:36
+comments: true
+external-url: 
+categories: [design, programming]
+
+---
+
+
+###理性的设计  
+by 西乔
+
+* 一个设计只有一个重心  
+* 利用视觉习惯引导用户行为  
+* 人们喜欢数据,哪怕用不同的字号将其突出出来  
+* 空白是好设计的肺部  
+* 好的设计并非源于审美,而是源于对受众的理解  
+
+---
+
+###  LBS应用之道  
+by 大众点评 
+
+* 超过100万商家,16million评论  
+* 80个开发者,手机团队10几个  
+* geocoding  
+* recerse geocoding  
+* local business solution  
+* app 10年1月上线 170万装机量
+* lesson learned  
+	* 数据协议在各种网络和硬件的情况下表现不佳 - 序列化和压缩  
+	* 定位偏移 - 辅助定位,反向偏移 各城市非线性偏移  
+	* 地图和政策问题 - 内嵌web地图  
+	* 多机型兼容问题 -
+* 各个页面定义私有url  
+* 遵循规范,比如维度在前,精度在后

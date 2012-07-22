@@ -4,7 +4,7 @@ title: "iOS Notification 学习笔记"
 date: 2010-10-31 00:17
 comments: true
 external-url: 
-categories: [iOS,Programming]
+categories: [iOS,programming]
 
 ---
 
