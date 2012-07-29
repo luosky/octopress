@@ -8,13 +8,13 @@ categories: [life, programming]
 
 ---
 
-{% img http://luosky.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-23-at-下午5.15.34-494x338.png (merge pull request) %}
+{% img http://photo.luosky.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-23-at-下午5.15.34-494x338.png (merge pull request) %}
 
 第一次处理Github的Pull Request,还是[CocoaPods][13]这样的项目,要点Merge pull request时不禁有点手抖…
 
    [13]: https://github.com/CocoaPods/CocoaPods
 
-{% img http://luosky.com/wp-content/uploads/2012/03/4D08QFI206-494x187.jpg (merge) %}
+{% img http://photo.luosky.com/wp-content/uploads/2012/03/4D08QFI206-494x187.jpg (merge) %}
 
 
 算是对[CocoaPods][16]做了点小贡献.

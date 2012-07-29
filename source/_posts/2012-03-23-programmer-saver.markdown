@@ -8,7 +8,7 @@ categories: [life, programming]
 
 ---
 
-[{% img http://luosky.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-23-at-下午1.38.45-494x249.png (classnamer) %}](http://www.classnamer.com/)
+[{% img http://photo.luosky.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-23-at-下午1.38.45-494x249.png (classnamer) %}](http://www.classnamer.com/)
 
 
 

@@ -1,0 +1,11 @@
+将文章类blog迁移到octopress上:
+	- 修改总的feed,使其兼容原来的feed地址 http://luosky.com/feed @done(2012-07-24)
+	- 添加分类的rss feed
+	- 将原先的文章类的文章放到octopress上 @done(2012-07-25)
+		- wordpress上的 @done(2012-07-21)
+			- 有些life分类下的blog还没转过来 @done(2012-07-25)
+		- 旧的 msn space上的 @done(2012-07-25)
+		- my.opera.com/luosky上de的 @done(2012-07-25)
+	- 将原先照片blog整合到新的blog内 @done(2012-07-21)
+	- 将原先的blog换成适合照片类的主题
+		- 迁移出linode

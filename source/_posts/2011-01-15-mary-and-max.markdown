@@ -10,21 +10,21 @@ categories: [life, movie]
 
 ![][11]
 
-   [11]: http://luosky.com/wp-content/uploads/2011/01/s4034827.jpg (s4034827)
+   [11]: http://photo.luosky.com/wp-content/uploads/2011/01/s4034827.jpg (s4034827)
 
 @caoxg 推荐的治愈系电影,周六的午后边吃着披萨,边把它看完了.虽然疗的不是我的伤,看了还是感觉很温暖.五星级.
 
 ### Quotes:
 
 
-{% img right http://luosky.com/wp-content/uploads/2011/01/p496809861-300x168.jpg %}
+{% img right http://photo.luosky.com/wp-content/uploads/2011/01/p496809861-300x168.jpg %}
 
 {% blockquote Max, Mary and Max %}
    When I was young, I wanted to be anybody but myself.
 {% endblockquote %} 
 
-{% img right http://luosky.com/wp-content/uploads/2011/01/p589868900-300x166.jpg %} 
-{% img right http://luosky.com/wp-content/uploads/2011/01/p589869194-300x166.jpg %} 
+{% img right http://photo.luosky.com/wp-content/uploads/2011/01/p589868900-300x166.jpg %} 
+{% img right http://photo.luosky.com/wp-content/uploads/2011/01/p589869194-300x166.jpg %} 
 
 {% blockquote Max, Mary and Max %}
    Love yourself first.

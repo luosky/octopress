@@ -14,6 +14,9 @@ deploy_default = "push"
 # Hidden "dot" files that should be included with the deployed site (see task copydot)
 copy_dot_files = []
 
+# Feed files other than atom.xml that needed to be compatible with previous blog
+feed_files = ["feed/index.html"]
+
 # This will be configured for you when you run config_deploy
 deploy_branch  = "master"
 
@@ -278,7 +281,15 @@ end
 desc "Default deploy task"
 task :deploy do
   Rake::Task[:copydot].invoke(source_dir, public_dir)
+  Rake::Task[:copyfeeds].invoke
   Rake::Task["#{deploy_default}"].execute
+end
+
+desc "copy atom.xml to feed_files"
+task :copyfeeds do
+  feed_files.each do |filename|
+    cp("#{public_dir}/atom.xml","#{public_dir}/#{filename}")
+  end
 end
 
 desc "Generate website and deploy"
