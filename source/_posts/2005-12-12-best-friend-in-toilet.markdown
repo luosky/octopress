@@ -4,7 +4,7 @@ title: "厕上极品"
 date: 2005-12-12 18:48
 comments: true
 external-url: 
-categories: life,other
+categories: [life, others]
 
 ---
 

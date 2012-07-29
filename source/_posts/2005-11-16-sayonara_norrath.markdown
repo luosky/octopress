@@ -4,7 +4,7 @@ title: "再见诺拉斯"
 date: 2005-11-16 11:16
 comments: true
 external-url: 
-categories: [game,life]
+categories: [game, life]
 
 ---
 

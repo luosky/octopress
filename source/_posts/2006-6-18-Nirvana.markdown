@@ -5,7 +5,7 @@ title: "Nirvana"
 date: 2006-6-18 15:06:25
 comments: true
 external-url: 
-categories: [music,life]
+categories: [music, life]
 
 ---
 

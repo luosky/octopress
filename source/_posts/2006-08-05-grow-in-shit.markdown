@@ -5,7 +5,7 @@ title: "&#29983;&#22312;&#22823;&#31914;&#20013;,&#20381;&#28982;&#21487;&#20197
 date: 2006-08-05 16:27:53
 comments: true
 external-url: 
-categories: [others,life]
+categories: [others, life]
 
 ---
 

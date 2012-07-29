@@ -5,7 +5,7 @@ title: "&#37325;&#24198;&#26862;&#26519;"
 date: 2006-08-05 16:28:02
 comments: true
 external-url: 
-categories: [movie,life]
+categories: [movie, life]
 
 ---
 

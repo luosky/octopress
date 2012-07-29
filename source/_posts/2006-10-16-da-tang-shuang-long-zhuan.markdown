@@ -5,7 +5,7 @@ title: "&#32456;&#30475;&#23436;&#22823;&#21776;&#21452;&#40857;&#20256;"
 date: 2006-10-16 16:28:40
 comments: true
 external-url: 
-categories: read
+categories: life
 
 ---
 
