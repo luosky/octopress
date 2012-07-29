@@ -9,3 +9,6 @@
 	- 将原先照片blog整合到新的blog内 @done(2012-07-21)
 	- 将原先的blog换成适合照片类的主题
 		- 迁移出linode
+	- 添加分享功能
+	- 建立同步机制
+		- luosky.com,photo.luosky.com -> 新浪微博,qq空间
