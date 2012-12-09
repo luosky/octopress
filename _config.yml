@@ -107,3 +107,9 @@ google_analytics_tracking_id: UA-150010-7
 
 # Facebook Like
 facebook_like: false
+
+# Weibo
+weibo_share: true
+weibo_share_appkey: 1556233841
+weibo_share_relate_uid: 1644030950
+

@@ -1,4 +1,6 @@
 {% comment %}
 You can add sharing buttons here. Just so you know, some services may use these buttons to track visitors to your site, and also these can trigger lots of http requests slowing your site down for low bandwidth and mobile users.
 {% endcomment %}
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?url={{ site.url }}{{ page.url }}&amp;appkey=1556233841&amp;type=6&amp;ralateUid=1644030950&amp;language=zh_cn" width="86" height="16"></iframe>
+{% if site.weibo_share %}
+   {% include custom/weibo_share.html %}
+{% endif %}
