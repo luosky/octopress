@@ -4,4 +4,7 @@
   {% if site.disqus_short_name %}
     <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
   {% endif %}
+  {% if site.weibo_comment %}
+  	{% include custom/weibo_comment.html %}
+  {% endif %}
 </section>
