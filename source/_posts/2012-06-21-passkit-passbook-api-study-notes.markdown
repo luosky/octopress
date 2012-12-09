@@ -81,7 +81,7 @@ event :
 * BARCODE不支持中文(应该跟用的编码有关)
 * 日期格式: 2012-06-20T17:30+08:00
 * 使用相对时间的格式  "isRelative" : true
-* coupon的primaryFields很大,中文只能放3个字
+* coupon的primaryFields很大,中文只能放4个字()
 * PKPassLibrary不是singleton,注册PKPassLibraryDidChangeNotification通知时,通知是针对某个具体的library对象的,所以需将你创建的library传过去.
 
 ``` objective-c

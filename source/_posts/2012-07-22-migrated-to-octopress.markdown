@@ -17,6 +17,7 @@ categories: [life, blog]
  
 Some Tips:
 
+* 用[pow](http://pow.cx/)来本地运行很方便
 * rake setup_github_pages时出现undefined method `[]' for nil:NilClass 
 	* 一般是因为repository地址你填的是http的地址
 	* 填ssh的那个形式如 git@github.com:your_username/your_username.github.com.git 的地址即可
