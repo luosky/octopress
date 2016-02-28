@@ -11,6 +11,7 @@ I'm a Objective-C and Java programmer. Working for [Aizheke.com](http://aizheke.
 
 My Projects:
 
+  * [爱美味] [16]
   * [爱折客][9]
   * [人间网][11]
   * ~~[iRenjian][10]  ~~
@@ -33,4 +34,4 @@ Github  :  [Luosky][15]
    [13]: http://www.douban.com/people/luosky/
    [14]: http://www.xiami.com/u/35579
    [15]: http://github.com/luosky
-
+[16]: http://itunes.apple.com/cn/app/ai-mei-wei/id552861555?ls=1&mt=8
