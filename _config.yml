@@ -1,7 +1,8 @@
+
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-
+encoding: utf-8
 url: http://luosky.com
 title: Luosky's Playground
 subtitle: It's better to burn out than to fade away. 

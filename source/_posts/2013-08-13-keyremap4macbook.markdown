@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "KeyRemap4MacBook"
@@ -18,7 +19,7 @@ categories: productivity
 
 用KeyRemap4MacBook，你可以为你的每个输入法都设置一个快捷键。这里我用`Cmd + Space`来切换到英文输入法，用`Shift + Cmd + Space`来切换到中文输入法。我的中文输入法是百度拼音，用别的输入法的同学可以用KeyRemap4MacBook的Event Viewer来查看自己所用的输入法的input source id,然后将下面的`inputsourceid_equal`值换成对应的 source id 就可以了。
 
-```
+``` xml
 	<item>
 	    <name>fast input source switch</name>
 	    <appendix>Change input source to US by command + space</appendix>
@@ -51,8 +52,9 @@ categories: productivity
 * 右边的`Option` => `Hyper`，搭配之前设置的`Hyper` + `J/K/H/L` 输出 `下/上/左/右`，这样只要用手掌按住右`Option`就可以直接单手用 `J/K/H/L`这些 vi 键来做方向键了。
 * 左边的`Shift` + `Delete` => `Forward Delete`
 
-```
-	<item>
+
+``` XML
+	<item> 
 		<name>HHKB adopt Hyper settings</name>
 		<identifier>luosky.hhkb_hyper</identifier>
 		<appendix>(Option_R / TAB to Hyper (ctrl+shift+cmd+opt), press only once, send escape)</appendix>
@@ -147,3 +149,5 @@ update: HHKB 的 Fn 键 不能被 KeyRemap4MacBook 捕获，所以不支持 Fn �
 	
 
 完整的 [private.xml ](https://www.dropbox.com/s/i3fy89qdt4txeo9/private.xml)
+
+
