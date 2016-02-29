@@ -19,7 +19,7 @@ categories: productivity
 
 用KeyRemap4MacBook，你可以为你的每个输入法都设置一个快捷键。这里我用`Cmd + Space`来切换到英文输入法，用`Shift + Cmd + Space`来切换到中文输入法。我的中文输入法是百度拼音，用别的输入法的同学可以用KeyRemap4MacBook的Event Viewer来查看自己所用的输入法的input source id,然后将下面的`inputsourceid_equal`值换成对应的 source id 就可以了。
 
-``` xml
+``` 
 	<item>
 	    <name>fast input source switch</name>
 	    <appendix>Change input source to US by command + space</appendix>
@@ -53,7 +53,7 @@ categories: productivity
 * 左边的`Shift` + `Delete` => `Forward Delete`
 
 
-``` XML
+``` 
 	<item> 
 		<name>HHKB adopt Hyper settings</name>
 		<identifier>luosky.hhkb_hyper</identifier>
