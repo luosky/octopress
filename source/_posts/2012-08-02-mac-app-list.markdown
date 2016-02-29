@@ -1,23 +1,27 @@
 
 ---
 layout: post
-title: "我的Mac App 列表"
+title: "我的 Mac App 列表"
 date: 2012-08-02 17:42
 comments: true
 external-url: 
-categories: productive
+categories: productivity
 ---
 
-以下是我觉得好用的app,如果没有链接的,一般都可以在Mac的App Store里找到.
+以下是我觉得好用的app,如果没有链接的,一般都可以在Mac的App Store里找到. 划掉的一般都是免费的，曾经用过一段时间，后来换成了收费的。
 
 ## 开发
-* CodeRunner
+* ~~CodeRunner~~
 * Dash
-	* 文档查找 和 代码snippet管理
-* SourceTree
-	* 版本控制
-* [SpeedLimit](http://mschrag.github.com/)
-	* 在mac上模拟3G或Edge的速度
+    * 文档查看和代码 snippet 管理
+* [TextExpender](https://smilesoftware.com/textexpander)
+    * snippet 管理，比 Dash 好的地方是 placeholder 可以下拉选择，另外支持 script
+* [Tower](https://www.git-tower.com/) ~~SourceTree~~
+	* Git 客户端
+* [Charles](https://www.charlesproxy.com/) ~~[SpeedLimit](http://mschrag.github.com/)~~
+	* 查看网络请求及模拟弱网络环境
+* [Paw](https://luckymarmot.com/paw)
+    * API 调试工具，也能用来生成 [api blueprint](https://apiblueprint.org/) 文档
 
 ## 命令行增强:
 * [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh/)
@@ -31,9 +35,9 @@ categories: productive
 
 
 ## 笔记
-* Mou 
-	* markdown编辑器
 * Evernote
+* [MWeb](http://www.mweb.im/)  ~~Mou~~
+	* 好用的 markdown 编辑器，目前写 blog 也主要用它来写
 * [nvAlt](http://brettterpstra.com/project/nvalt/) 
 	* evernote的替代品,支持markdown,支持wiki式的笔记链接,更适合用来自己写笔记,evernote则适合当做知识库,用来存别人写的东西.
 * [Clearly](http://evernote.com/clearly/)
@@ -65,7 +69,7 @@ categories: productive
 * The Unarchiver 
 	*  解压软件,可避免windows里打包的文件解压乱码.
 * Dropbox
-* [XtraFinder](http://www.trankynam.com/xtrafinder/)   
+* [~~XtraFinder~~](http://www.trankynam.com/xtrafinder/)   
 	*  Finder强化，支持 tab，显示路径等
 * [Mackup](https://github.com/lra/mackup)
 	* 备份各个程序的配置文件到Dropbox 	
@@ -77,10 +81,10 @@ categories: productive
 	* 可自定义按键的映射，将你的键盘 hack 成完全适合你自己习惯的样子。我的配置在[这里](http://luosky.com/2013/08/13/keyremap4macbook/)
 * [Afloat](http://infinite-labs.net/afloat/#download) 
 	*  让某个窗口"总是在前"
-* [Disk Inventory X]
-	* 硬盘管理
-* [GrandPerspective]
-	* 硬盘管理
+* [DaisyDisk](https://daisydiskapp.com/) [~~Disk Inventory X~~]
+	* 大文件清理
+* [CleanMyMac 3](http://macpaw.com/cleanmymac) [~~GrandPerspective~~]
+	* 磁盘清理
 
 ## 设计:
 * SparkBox 
@@ -91,11 +95,15 @@ categories: productive
 	*  网页截屏
 
 ## 阅读
+* Reeder
+* Instapaper
+* PDF Expert
 * [Calibre](http://calibre-ebook.com/download_osx)  
 	*  电子书格式转换
 
 ## Music:
 
+* 网易云音乐
 * Simplify
 	* 统一控制音乐播放器，兼容 iTunes, Spotify, Rdio, Pandora等等
 * MusicSeekerX
